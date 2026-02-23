@@ -1,0 +1,31 @@
+number,first_name,last_name,position,weight,height,hometown,class,high_school
+1,Henry,Hunt,G,200,6'2","Cedarburg, Wis.",Fr.,Potomac Patriots
+2,Lukas,Klemm,D,200,6'1","Stamford, Conn.",Fr.,Johnstown Tomahawks (NAHL)
+3,John,Larkin,D,195,6'2","Northville, Mich.",Sr.,Ohio State (BIG 10)
+4,Jaryd,Sych,D,205,6'2","Riceton, Sa.",Jr.,Notre Dame Hounds (SJHL)
+5,Caleb,Price,D,175,5'10","Hooksett, N.H.",Gr.,Lindenwood University
+6,Trent,Sambrook,D,170,5'10","Medora, Man.",Jr.,Winkler Flyers (MJHL)
+7,Tyler,DesRochers,D,180,6'0","Howell, N.J.",Jr.,Johnstown Tomahawks (NAHL)
+8,Brendan,Lamb,F,180,5'10","Battle Creek, Mi",So.,Madison Capitols (USHL)
+9,Sean,James,F,197,6'0","Almonte, Ont.",Jr.,Smith's Falls Bears (CCHL)
+10,Francesco,Iasenza,D,208,6'1","Montréal, Québec",Fr.,Victoriaville Tigres (QMJHL)
+11,Barrett,Brooks,F,170,5'7","Stevens Point, Wi.",Sr.,Western Michigan
+14,Andrew,LeBlanc,F,186,6'0","Wainfleet, Ontario",Fr.,North Bay Battalion (OHL)
+15,Dominik,Bartecko,F,175,5'9","Nashville, Tn.",So.,New Jersey Titans (NAHL)
+16,Ryan,Coughlin,F,180,6'0","Charlotte, N.C.",Sr.,New Jersey Jr. Titans (NAHL)
+18,Jacob,LeBlanc,D,192,6'1","Wainfleet, Ontario",Fr.,North Bay Battalion (OHL)
+19,Riley,Fitzgerald,F,165,5'10","Wilmington, MA",So.,NJ Titans NAHL
+20,Kaden,Muir,D,190,6'2","Toronto, Ont.",So.,Austin Bruins (NAHL)
+21,Will,Schumacher,F,175,5'11","Prior Lake, Minn.",Fr.,Victoria Grizzlies
+22,Noah,Sedore,F,170,5'9","Sharon, Ontario",Jr.,Erie Otters (OHL)
+23,Christian,Kocsis,F,174,5'10","Middletown, NJ",So.,Omaha Lancers (USHL)
+24,Matteo,Disipio,F,170,6'0","Ottawa, Ont.",So.,Rochester Jr Americans (NAHL)
+26,Spencer,Smith,F,175,5'9","St. Catharines, Ont.",Jr.,Penticton Vees (BCHL)
+27,Alexander,Dimitriadis,F,180,5'10","Richmond Hill, Ontario",Fr.,Sherwood Park Crusaders (BCHL)
+28,Tyler,Nasca,D,175,5'10","Wheatfield, N.Y.",Sr.,Lone Star Brahmas (NAHL)
+29,Charles-Edward,Gravel,G,197,6'1","Lévis, Quebec",Fr.,Prince George Spruce Kings (BCHL)
+33,Salvatore,Evola,G,175,5'11","Rochester, Mich.",Sr.,Johnstown Tomahawks (NAHL)
+34,Joey,Serpa,F,170,6'1","Cambridge, Ontario",Jr.,Oshawa General (OHL)
+37,Connor,Pelc,F,190,6'2","Hamburg, N.Y.",Jr.,Sioux Falls Stampede (USHL)
+43,Tyler,Haskins,F,190,6'1","Rochester, Minn.",R-Sr.,Minnesota State Mankato
+44,Simon,Bucheler,G,190,6'2","Saint-Laurent, Qc.",Jr.,Shreveport Mudbugs (NAHL)
